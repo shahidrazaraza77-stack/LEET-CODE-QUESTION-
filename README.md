@@ -21,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0069-sqrtx) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
