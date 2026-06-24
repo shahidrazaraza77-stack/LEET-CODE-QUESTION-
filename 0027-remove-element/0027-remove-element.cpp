@@ -1,20 +1,13 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-
-        vector<int>temp;
-
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]!=val){
-                temp.push_back(nums[i]);
-
+        int k = 0; // slow pointer
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] != val) {
+                nums[k] = nums[i]; // overwrite
+                k++;               // move slow pointer
             }
-            
-
         }
-        nums=temp;
-        return nums.size();
-      
-        
+        return k; // length of array without val
     }
 };
