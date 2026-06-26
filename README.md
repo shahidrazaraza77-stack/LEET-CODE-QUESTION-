@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
