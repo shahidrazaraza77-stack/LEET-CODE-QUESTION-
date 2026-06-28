@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
