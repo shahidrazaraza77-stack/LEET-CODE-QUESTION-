@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
