@@ -1,4 +1,5 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+🚀 My LeetCode DSA Solutions Repository
+This repository contains my solutions to LeetCode problems solved in C++. It serves as a personal coding journal to improve algorithmic thinking, master Data Structures and Algorithms, and prepare for software engineering interviews. Solutions are organized by topic and difficulty, emphasizing clean, optimized, and well-structured code.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
