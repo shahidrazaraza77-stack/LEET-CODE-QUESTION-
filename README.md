@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
@@ -20,6 +21,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
@@ -84,6 +86,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
