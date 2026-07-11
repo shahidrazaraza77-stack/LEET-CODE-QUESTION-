@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
