@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -39,6 +40,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
@@ -112,5 +115,6 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
