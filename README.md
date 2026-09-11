@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1009-complement-of-base-10-integer) |
