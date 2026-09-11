@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
