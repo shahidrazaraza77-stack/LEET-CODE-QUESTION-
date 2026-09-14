@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0125-valid-palindrome](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Recursion
 |  |
@@ -124,4 +125,12 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
