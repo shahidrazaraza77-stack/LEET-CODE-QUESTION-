@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0027-remove-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
