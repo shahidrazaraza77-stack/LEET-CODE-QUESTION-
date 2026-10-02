@@ -129,6 +129,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
@@ -149,6 +150,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
