@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0027-remove-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
