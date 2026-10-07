@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0485-max-consecutive-ones](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -144,6 +145,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
