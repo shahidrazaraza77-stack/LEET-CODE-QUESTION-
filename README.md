@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | ------- |
 | [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
