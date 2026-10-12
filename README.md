@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -101,6 +102,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0724-find-pivot-index) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
