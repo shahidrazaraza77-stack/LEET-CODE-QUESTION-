@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1991-find-the-middle-index-in-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -103,6 +104,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1991-find-the-middle-index-in-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
