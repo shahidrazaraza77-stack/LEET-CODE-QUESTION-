@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -103,6 +105,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1991-find-the-middle-index-in-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
