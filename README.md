@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0152-maximum-product-subarray) |
@@ -134,6 +135,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0015-3sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -179,4 +181,8 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
