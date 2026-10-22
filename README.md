@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0035-search-insert-position](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0152-maximum-product-subarray) |
