@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1991-find-the-middle-index-in-array) |
