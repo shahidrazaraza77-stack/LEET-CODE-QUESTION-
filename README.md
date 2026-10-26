@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -54,6 +55,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,4 +189,8 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
