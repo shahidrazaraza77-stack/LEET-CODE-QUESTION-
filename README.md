@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0986-interval-list-intersections) |
 ## Binary Search
@@ -181,6 +182,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
