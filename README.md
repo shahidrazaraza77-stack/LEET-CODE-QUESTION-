@@ -154,6 +154,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0151-reverse-words-in-a-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -174,6 +175,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
