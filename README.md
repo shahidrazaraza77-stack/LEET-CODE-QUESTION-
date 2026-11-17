@@ -150,6 +150,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0344-reverse-string) |
@@ -175,6 +176,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -201,4 +203,8 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
