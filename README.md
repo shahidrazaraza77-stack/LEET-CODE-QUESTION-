@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0136-single-number](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +95,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -105,6 +107,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -149,6 +152,7 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 | [0056-merge-intervals](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -212,4 +216,12 @@ This repository contains my solutions to LeetCode problems solved in C++. It ser
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shahidrazaraza77-stack/LEET-CODE-QUESTION-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
